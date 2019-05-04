@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using lab1.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace lab1.Controllers
 {
